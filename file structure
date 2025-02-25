@@ -1,8 +1,0 @@
-secure-login/
-│── index.html      (Main page)
-│── login.html      (Login form)
-│── register.html   (Signup form)
-│── dashboard.html  (Protected page)
-│── assets/
-│   ├── style.css   (CSS styles)
-│   ├── script.js   (JavaScript functions)
